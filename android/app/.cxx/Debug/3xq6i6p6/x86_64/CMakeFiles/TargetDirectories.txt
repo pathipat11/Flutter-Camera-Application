@@ -1,0 +1,2 @@
+D:/Pathipat_Mattra/ComData 3/Classroom2/IN403105/work/Flutter-Camera-Application/android/app/.cxx/Debug/3xq6i6p6/x86_64/CMakeFiles/edit_cache.dir
+D:/Pathipat_Mattra/ComData 3/Classroom2/IN403105/work/Flutter-Camera-Application/android/app/.cxx/Debug/3xq6i6p6/x86_64/CMakeFiles/rebuild_cache.dir
