@@ -1,13 +1,23 @@
 # Flutter Camera Application
 
-This is a Flutter-based mobile application that allows users to capture photos, switch between front and rear cameras, and save images to the device's gallery. The app also provides a gallery view to browse and display stored images.
+This **Flutter Camera Application** is a mobile app built with **Flutter** that allows users to capture photos, browse their gallery, and view images in full-screen mode. The app provides a smooth and intuitive user experience, enabling seamless switching between the front and rear cameras.  
 
-## Features
-- Capture photos using the device camera
-- Switch between front and rear cameras
-- Save images automatically to the gallery
-- View and browse saved images in a gallery grid
-- Open images in full-screen mode for better visibility
+### 🔹 Key Features  
+- 📸 Capture photos using the device camera  
+- 🔄 Switch between front and rear cameras  
+- 💾 Save images automatically to the gallery  
+- 🖼️ Browse saved images in a gallery grid  
+- 🔍 View images in full-screen mode  
+
+### 🚀 Tech Stack  
+- **Flutter** (Dart) – Cross-platform development  
+- **camera** – Accessing the device camera  
+- **image_picker** – Selecting images from the gallery  
+- **photo_manager** – Managing gallery images  
+- **permission_handler** – Handling camera and storage permissions  
+
+### 📌 Why This Project?  
+This project serves as a practical demonstration of working with **camera access, image handling, and permission management** in Flutter. It is a great starting point for developers looking to integrate media-related features in their mobile applications.  
 
 ---
 
@@ -15,7 +25,7 @@ This is a Flutter-based mobile application that allows users to capture photos, 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/thanachok11/flutter_camera.git
+git https://github.com/pathipat11/Flutter-Camera-Application.git
 ```
 
 ### 2. Install dependencies
